@@ -75,7 +75,7 @@ public class Farmacia {
 		System.out.println("\nFabricante: " + this.fabricante);
 		System.out.println("\nFoto: " + this.foto);
 		System.out.println("\nPreço: " + this.preco);
-		System.out.println("************************************");
+		
 	}
 	
 	

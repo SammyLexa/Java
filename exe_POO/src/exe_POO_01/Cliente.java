@@ -65,7 +65,7 @@ public class Cliente {
 		System.out.println("Telefone: " + this.telefone);
 		System.out.println("Saldo: " + this.dinheiro);
 		System.out.println("ID: " + this.id);
-		System.out.println("***********************************");
+		
 	}
 	
 }
